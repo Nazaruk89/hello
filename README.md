@@ -1,2 +1,3 @@
 # hello
-jast study
+just study
+only for the study
